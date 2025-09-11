@@ -11,7 +11,7 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files (optional, depends on your project)
+# Data files 
 *.csv
 *.tsv
 *.xls*
@@ -26,6 +26,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# VSCode / IDE configs (optional)
+# VSCode / IDE configs 
 .vscode/
 .idea/
