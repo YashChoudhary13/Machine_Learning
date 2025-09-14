@@ -4,5 +4,5 @@ pandas
 numpy
 seaborn
 matplotlib
-
+tabulate
 # pip install -r requirements.txt
